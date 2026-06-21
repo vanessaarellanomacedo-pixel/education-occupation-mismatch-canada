@@ -55,17 +55,24 @@ The project includes:
 
 ## Key Findings
 
+The summary table below shows how TEER categories were grouped for each immigration status in Canada.
+
+![Summary table](charts/summary_teer_percentages.png)
+
 At the national level, immigrants with a bachelor's degree or higher had a possible mismatch rate of approximately 17.9%, compared with 8.8% for non-immigrants.
 
 The difference was about 9.1 percentage points. The relative risk was approximately 2.04, meaning that highly educated immigrants were about twice as likely as non-immigrants to be working in TEER 4 or TEER 5 occupations.
 
 The two-proportion z-test showed that this difference was statistically significant, with a p-value below 0.001.
 
+![Hypothesis test results](charts/hypothesis_test_results.png)
+
 The confidence interval also supported the result because the interval for the difference did not include 0.
 
-The chi-square test showed that TEER group distribution is associated with immigration status. However, Cramér’s V suggested that the strength of the association was relatively weak, meaning that immigration status is related to occupation level but does not explain the full pattern by itself.
+The chi-square test showed that TEER group distribution is associated with immigration status. However, Cramér's V suggested that the strength of the association was relatively weak, meaning that immigration status is related to occupation level but does not explain the full pattern by itself.
 
 The Ontario analysis showed a similar pattern. In Ontario, immigrants had a possible mismatch rate of about 16.6%, compared with 9.6% for non-immigrants. The difference was about 7.0 percentage points, and the relative risk was approximately 1.73.
+
 
 ## Main Chart
 
